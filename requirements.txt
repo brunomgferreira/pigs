@@ -1,0 +1,4 @@
+imageio[ffmpeg]
+scikit-image
+matplotlib
+opencv-python
